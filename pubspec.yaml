@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  file_picker: ^5.0.0
+  audioplayers: ^0.20.1
   cupertino_icons: ^1.0.8
   just_audio: ^0.9.36
   permission_handler: ^11.3.0
